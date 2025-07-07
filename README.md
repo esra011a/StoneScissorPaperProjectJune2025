@@ -1,3 +1,3 @@
 # StoneScissorPaperProjectJune2025
 
-Stone Scissor Paper game 
+## Stone Scissor Paper game 
